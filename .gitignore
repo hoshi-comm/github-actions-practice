@@ -1,2 +1,9 @@
 .venv/
 .DS_Store
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+
+# pytest キャッシュ
+.pytest_cache/
