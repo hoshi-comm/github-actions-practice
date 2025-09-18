@@ -1,4 +1,4 @@
-name: CI (pytest)
+name: CI (pytest) # ワークフロー全体の名前
 
 on:
   push:
